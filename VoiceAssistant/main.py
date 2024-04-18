@@ -35,7 +35,11 @@ if "hello" in text:
 # if "why" in text:
 #     speak("you know! what you did!")
 
+<<<<<<< HEAD
 # speak("death awaits you all! with big nasty pointy teeth.")
+=======
+speak("death awaits you all! With big nasty pointy teeth.")
+>>>>>>> bdb7f21d73dc7627cbf3981e52b0656dfa809a50
 # get_audio()
 
 
