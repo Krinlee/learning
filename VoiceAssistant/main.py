@@ -35,7 +35,7 @@ def get_audio():
 # if "why" in text:
 #     speak("you know! what you did!")
 
-speak("death awaits you all! with big nasty pointy teeth.")
+speak("death awaits you all! With big nasty pointy teeth.")
 # get_audio()
 
 
