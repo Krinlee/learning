@@ -33,7 +33,7 @@ while True:
 
     def get_response():
         completion = openai.ChatCompletion.create(model = "gpt-3.5-turbo", messages = [
-                {"role": "system", "content": "Your are a nice person who enjoys having conversation. "},
+                {"role": "system", "content": "You are a nice person who enjoys having conversation. "},
                 {"role": "user", "content": text}],
                 temperature = 0.1, max_tokens = 1000)
 
